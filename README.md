@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="icon.png" alt="Zcash (Zebra) Logo" width="21%">
+  <img src="icon.svg" alt="Zcash (Zebra) Logo" width="21%">
 </p>
 
 # Zcash (Zebra) on StartOS
